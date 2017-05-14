@@ -1,0 +1,14 @@
+{
+  "name": "Jadopado Authy 2FA with Node.js",
+  "description": "",
+  "keywords": [],
+  "env": {
+    "AUTHY_API_KEY": {
+      "description": "Authy API key",
+      "required": true
+    }
+  },
+  "addons": [
+    "mongolab"
+  ]
+}
